@@ -1,0 +1,17 @@
+---
+title: "Appex 05 - Randomized Trials"
+author: "Lucy D'Agostino McGowan"
+output: html_document
+---
+
+
+```{r, message = FALSE, warning = FALSE}
+library(tidyverse)
+```
+
+## Exercise 1
+
+## Exercise 2
+
+## Exercise 3
+
